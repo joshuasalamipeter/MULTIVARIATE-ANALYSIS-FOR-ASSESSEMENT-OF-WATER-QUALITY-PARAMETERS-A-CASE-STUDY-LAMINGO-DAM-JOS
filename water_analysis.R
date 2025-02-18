@@ -45,4 +45,4 @@ summary(fa)
 print(fa)
 fviz_eig(fa)
 eigenvalues <- fa$values
-scree_data <- data.frame(Fa)
+scree_data <- data.frame(fa)
